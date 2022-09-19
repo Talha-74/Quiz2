@@ -1,0 +1,102 @@
+.task1 p {
+    width: 30%;
+}
+
+.cls-1 {
+    border: 3px solid black;
+}
+.cls-2 {
+    border: 3px dotted black;
+}
+.cls-3 {
+    border: 3px dashed black;
+}
+.cls-4 {
+    border: 4px;
+    border-style: double;
+}
+.cls-5 {
+    border: 3px;
+    border-style: groove;
+}
+.cls-6 {
+    border: 4px;
+    border-style: ridge;
+
+}
+.cls-7 {
+    border: 3px;
+    border-style: inset;
+}
+.cls-8 {
+    border: 3px;
+    border-style: outset;
+}
+
+.task2 p {
+    width: 50%;
+    
+}
+
+.op-1 {
+    opacity: 10%;
+    background-color: green;
+}
+.op-2 {
+    opacity: 30%;
+    background-color: green;
+}
+.op-3 {
+    opacity: 60%;
+    background-color: green;
+}
+.op-4 {
+    opacity: 1;
+    background-color: green;
+}
+
+.op-6 {
+    background: rgba(76, 175, 80, 0.1);
+}
+.op-7 {
+    background: rgba(76, 175, 80, 0.3);
+}
+.op-8 {
+    background: rgba(76, 175, 80, 0.6);
+}
+.op-9 {
+    background-color: green;
+}
+
+.task3 {
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+}
+
+.task3 h2 {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(226, 210, 210);
+    text-shadow: 28px 1px 11px rgba(223,10,10,0.54);
+}
+.task3 p{
+    opacity: 0.8;
+}
+
+.blue {
+    margin: 25px;
+    width: 13%;
+    border: 4px solid blue;
+}
+
+.diff {
+    margin: 25px;
+    width: 15%;
+    border-top: 4px solid lightgrey;
+    border-right: 4px solid black;
+    border-left: 4px solid blue;
+    border-bottom: 4px solid rgb(171, 106, 117);
+}
+
+
